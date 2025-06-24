@@ -10,7 +10,7 @@ global.session = "https://session-id-2fza.onrender.com";
  
  
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PRINCE-MDX~ZdmcKYDBznk9lZLHi65y", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
+SESSION_ID: process.env.SESSION_ID || "PRINCE-MD~H4sIAAAAAAAAA5VU0a6iSBD9l37VjCAoSnKTBVRAVBQFxc0+tNBACwJ2NyhO/PcN3rkzN5vs7F2emupK1alzTvV3kBeYIgs1QP4OSoJryFB7ZE2JgAzUKooQAV0QQgaBDDqWtrmvUGKrPK/bEdZYrmxjva6wNFlKOu+ZyFiuKBHy4g08u6CsThkOflMwdMzqXPkXfj6gnuUOq6XP2U4wn5KJEfEnVo2ma8eiN/UmvoFnWxFigvN4WiboggjMLNSsISZfg8/NVNPE0fmQkH2fU90rXj3Eednp9axNv3dWqZE7GxxxRKdfgz/D+TEq0ZXqtags9paamsiOxfp4cIdLNzj7WOrvUtK/bdN3+BTHOQrNEOUMs+bLvBdqtr/ppu/pnrHgHuv0dIILq5kveqNDfyg8NtJRu0Fm0/0XeV/ZG150N4NaqPfbHuLN1aHqVbPYp1xH1/Lx3H7guVhB2Oc+A1+TD6+k/4f35frMnPrudIytFh8vRY149eRYZbNK7ZmyfzhjyeGs8SM7cF+DP1+vOp2mgGhBy+nVszr3hSHWwxmu98otTOtmVlyocPUD9xPvkFXkdyilznQdbqu7epoP7UqwM49zevdecXIzc1c7ZWKkaT1TreP6vKhtl2uuau/a8Ci7SoNq04OTzf2glJwVD7bToXaMI8NWNOXtNVGKGjMEMv/sAoJiTBmBDBd5G+tz4y6AYb1FAUHsRS94FFeYzHbrE8yGR9+Fh8tokzm8sllPovS2y1bGcTR1dPtQT99AF5SkCBClKDQwZQVplohSGCMK5D//6oIc3dm7cG07ge+CCBPK3LwqswKGH6p+XMIgKKqcbZs80NoDIkDmfoURYziPactjlUMSJLhGWgIZBXIEM4p+TogICoHMSIV+bq1WhC3xluFZft83QRdcXoLgEMhgzI8Hwpgf9XlxJI+Gf9Bvt7YsLMtvOWKgC7JX2mgkiQLPS0OBHwwHbWIbf/4E2NYLEYM4o0AG2kqiPWbOpiucD5emrivTWNFiBfwa6MMZ78ynydCS5t5g4g074n5bbQdJMmwORn2YCoP7mY9vXp1VxiNpXsz/swiQgY5sow6s403Rrp7No2tkUXjXfG5RzQK/2M2y7XpZJ3pfH1VebhxLvHZ7hBSmJ4jTwO/YiakforMYqL3a2XPBZVX3tdtb2y1ENQ7Q52aLvdaZq3ZD+fqu5iwinnDTtjsHmVRcExw5hRKtZgQXbjrVsZhz9b3gxHM/DEuYpqbXE47CeXLQN8XAkVJ3fAi86yR+9+xrZ7IfbxV+uamVqv2NMHqtfg5bAf9bunfgrcO4Z/dTjR+Pyb8spHo0Ea4aD214VFezlKSV7yOa3SX+vuoE/thfzk6DUzISgwQ8n391QZlBFhXkAmQA85AUOARdQIqqtayZR8VvmmmKa04275NnkDLl1xrs8AVRBi8lkHlpwEmCII2F96w1KUoD0gTIQIj8m2a1nm6UstwyyD62Cijtt+wn4Pk3Jlgi9nEHAAA=", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
 SUDO_NUMBERS: process.env.SUDO_NUMBERS || "", //Add multiple Numbers with Country Codes without (+) Separated by Comma...
 ANTI_DELETE: process.env.ANTI_DELETE || "inboxonly", // can be set to inboxonly/allchats/true/false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
@@ -31,7 +31,7 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗", //  don't change 
+BOT_NAME: process.env.BOT_NAME || "𝐳𝐞𝐫𝐨𝐱", //  don't change 
 BOT_PIC: process.env.BOT_PIC || "https://raw.githubusercontent.com/Mayelprince/url/main/menun.jpg", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
