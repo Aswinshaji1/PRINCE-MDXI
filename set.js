@@ -10,7 +10,7 @@ global.session = "https://session-id-2fza.onrender.com";
  
  
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PRINCE-MDX~k0fE0jlsLTDdk7otzuOm", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
+SESSION_ID: process.env.SESSION_ID || "PRINCE-MDX~P9hgfCCgpGJVKFlexgxr", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
 SUDO_NUMBERS: process.env.SUDO_NUMBERS || "", //Add multiple Numbers with Country Codes without (+) Separated by Comma...
 ANTI_DELETE: process.env.ANTI_DELETE || "inboxonly", // can be set to inboxonly/allchats/true/false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
@@ -19,10 +19,10 @@ AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", 
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by prince-mdx", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
-OWNER_NUMBER: process.env.OWNER_NUMBER || "919539182148", // Only 1 owner Number Here, others Add to sudo numbers...
-OWNER_NAME: process.env.OWNER_NAME || "𝐳𝐞𝐫𝐨𝐱", // Input Yours custom...(Maintain font for Flow)
+OWNER_NUMBER: process.env.OWNER_NUMBER || "917736321747", // Only 1 owner Number Here, others Add to sudo numbers...
+OWNER_NAME: process.env.OWNER_NAME || "𝑅𝛩𝑌𝛥𝐿 𝑆𝛯𝑅", // Input Yours custom...(Maintain font for Flow)
 PACK_AUTHOR: process.env.PACK_AUTHOR || "𝐏𝐑𝐈𝐍𝐂𝐄 𝐓𝐄𝐂𝐇", // Added // Input Yours custom...
-PACK_NAME: process.env.PACK_NAME || "𝐳𝐞𝐫𝐨𝐱", // Added // Input Yours custom...
+PACK_NAME: process.env.PACK_NAME || "X-BOT", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
 VERSION: process.env.VERSION || "3.0.0",
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
@@ -31,7 +31,7 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "𝐳𝐞𝐫𝐨𝐱", //  don't change 
+BOT_NAME: process.env.BOT_NAME || "X-BOT", //  don't change 
 BOT_PIC: process.env.BOT_PIC || "https://raw.githubusercontent.com/Mayelprince/url/main/menun.jpg", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
