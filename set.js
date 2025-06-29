@@ -23,7 +23,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "917736321747", // Only 1 owner Number
 OWNER_NAME: process.env.OWNER_NAME || "᥊ꫀꪀꪮꪑꪮ𝘳ρꫝ🍃🤍", // Input Yours custom...(Maintain font for Flow)
 PACK_AUTHOR: process.env.PACK_AUTHOR || "𝐱𝐞𝐧𝐨𝐦𝐨𝐫𝐩𝐡", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "᥊ꫀꪀꪮꪑꪮ𝘳ρꫝ🍃🤍", // Added // Input Yours custom...
-PREFIX: process.env.PREFIX || "🫶",
+PREFIX: process.env.PREFIX || ".",
 VERSION: process.env.VERSION || "3.0.0",
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "false",
